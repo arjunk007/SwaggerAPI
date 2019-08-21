@@ -33,6 +33,10 @@ namespace SwaggerAPITest.Controllers
         }
 
         // POST api/values
+        /// <summary>
+        /// This is api/values summary
+        /// </summary>
+        /// <param name="value"></param>
         [HttpPost]
         public void Post([FromBody] string value)
         {
