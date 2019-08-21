@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SwaggerAPITest</name>
+    </assembly>
+    <members>
+        <member name="M:SwaggerAPITest.Controllers.ValuesController.Get(System.Int32)">
+            <summary>
+            This is test api summary
+            </summary>
+            <remarks>
+            This is the test remarks
+            </remarks>
+            <param name="id"> Pass the Id</param>
+            <returns>The value return example</returns>
+        </member>
+    </members>
+</doc>
